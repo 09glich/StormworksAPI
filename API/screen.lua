@@ -21,6 +21,8 @@ local screen = {
     setMapColorRock = function (r, g, b, a) end,
     setMapColorGravel = function (r, g, b, a) end,
 
+    getHeight = function() end,
+    getWidth = function () end,
     
 
 }

@@ -1,11 +1,11 @@
 To use these simple bits of code just coppy and paste this at the top of the script
 
 ```lua
-local input = require("API/Input.lua")
-local output = require("API/Output.lua")
-local property = require("API/property.lua")
-local screen = require("API/screen.lua")
-local map = require("API/map.lua")
+local input = require("API/Input")
+local output = require("API/Output")
+local property = require("API/property")
+local screen = require("API/screen")
+local map = require("API/map")
 
 ```
 
